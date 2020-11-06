@@ -1,0 +1,8 @@
+*************SHERIDAN BAGEL SHOP************* 
+Fri Aug 14 11:47:38 EDT 2020
+Item                                    Quantity            Amount              
+                                                            -----------         
+Pretax Total                                                $3.50                
+Sales Tax                                                   $0.46                
+Total                                                       3.96                
+*********THANK YOU FOR YOUR ORDER*********
